@@ -1,6 +1,6 @@
 # Table of contents
 
-  1. Introduction
+  #### 1. Introduction
 
   #### 2. Description of the dataset
 
@@ -8,7 +8,7 @@
     
      2.2 Tail of our Dataset
 
-  3. Preprocessing and Data Cleaning for EDA
+  #### 3. Preprocessing and Data Cleaning for EDA
 
      3.1 Detecting Null values in our dataset
 
