@@ -2,7 +2,7 @@
 
   1. Introduction
 
-  2. Description of the dataset
+  ##2. Description of the dataset
 
      2.1 Head of our Dataset
     
