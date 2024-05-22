@@ -4,9 +4,9 @@
 
   #### 2. Description of the dataset
 
-     #### 2.1 Head of our Dataset
+     2.1 Head of our Dataset
     
-     #### 2.2 Tail of our Dataset
+     2.2 Tail of our Dataset
 
   #### 3. Preprocessing and Data Cleaning for EDA
 
