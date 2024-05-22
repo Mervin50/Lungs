@@ -1,14 +1,14 @@
 # Table of contents
 
-  #### 1. Introduction
+#### 1. Introduction
 
-  #### 2. Description of the dataset
+#### 2. Description of the dataset
 
      2.1 Head of our Dataset
     
      2.2 Tail of our Dataset
 
-  #### 3. Preprocessing and Data Cleaning for EDA
+#### 3. Preprocessing and Data Cleaning for EDA
 
      3.1 Detecting Null values in our dataset
 
@@ -20,7 +20,7 @@
 
      3.5 Label Encoder
 
-   #### 4. Exploratory Data Analysis
+  #### 4. Exploratory Data Analysis
 
      4.1 Overview of dataset using statistics
 
@@ -40,7 +40,7 @@
 
      4.9 Heatmap
 
-    #### 5. Polishing our dataset for model training
+  #### 5. Polishing our dataset for model training
 
      5.1 Outlier detection and treating using Z-score
 
@@ -48,7 +48,7 @@
 
      5.3 Standarization
 
-    #### 6. Model Building and Model Evaluation
+  #### 6. Model Building and Model Evaluation
      
      6.1 Calculating accuracy of our models
 
@@ -56,11 +56,11 @@
 
      6.3 Calculating confusion Matrix
 
-    #### 7. Actual vs. Predicted Values
+  #### 7. Actual vs. Predicted Values
 
-    #### 8. Conclusion 
+  #### 8. Conclusion 
 
-    #### 9. References 
+  #### 9. References 
 
 
 
