@@ -1,0 +1,62 @@
+Name,Surname,Age,Smokes,AreaQ,Alkhol,Result
+John,Wick,35.0,3,5,4,yes
+John,Constantine,27.0,20,2,5,yes
+Camela,Anderson,30.0,0,5,2,no
+Alex,Telles,28.0,0,8,1,no
+Diego,Maradona,68.0,4,5,6,yes
+Cristiano,Ronaldo,34.0,0,10,0,no
+Mihail,Tal,58.0,15,10,0,no
+Kathy,Bates,22.0,12,5,2,no
+Nicole,Kidman,45.0,2,6,0,no
+Ray,Milland,52.0,18,4,5,yes
+Fredric,March,33.0,4,8,0,no
+Yul,Brynner,18.0,10,6,3,no
+Joan,Crawford,25.0,2,5,1,no
+Jane,Wyman,28.0,20,2,8,yes
+Anna,Magnani,34.0,25,4,8,yes
+Katharine ,Hepburn,39.0,18,8,1,no
+Katharine ,Hepburn,42.0,22,3,5,yes
+Barbra,Streisand,19.0,12,8,0,no
+Maggie ,Smith,62.0,5,4,3,yes
+Glenda ,Jackson,73.0,10,7,6,yes
+Jane ,Fonda,55.0,15,1,3,yes
+Maximilian ,Schell,33.0,8,8,1,no
+Gregory ,Peck,22.0,20,6,2,no
+Sidney ,Poitier,44.0,5,8,1,no
+Rex ,Harrison,77.0,3,2,6,yes
+Lee ,Marvin,21.0,20,5,3,no
+Paul ,Scofield,37.0,15,6,2,no
+Rod ,Steiger,34.0,12,8,0,no
+John ,Wayne,55.0,20,1,4,yes
+Gene ,Hackman,40.0,20,2,7,yes
+Marlon ,Brando,36.0,13,5,2,no
+Jack ,Lemmon,56.0,20,3,3,yes
+Jack ,Nicholson,47.0,15,1,8,yes
+Peter ,Finch ,62.0,25,3,4,yes
+Richard ,Dreyfuss,26.0,10,7,2,no
+Dustin ,Hoffman,25.0,20,8,2,no
+Henry ,Henry ,59.0,20,3,4,yes
+Robert ,Duvall,62.0,15,5,5,yes
+Ellen ,Burstyn,33.0,25,8,2,no
+Faye ,Dunaway,37.0,10,5,3,no
+Diane ,Keaton,50.0,20,2,4,yes
+Jane ,Fonda,47.0,12,8,0,no
+Sally ,Field,69.0,20,5,4,yes
+Sissy ,Spacek,63.0,20,4,5,yes
+Jessica ,Lange,39.0,15,7,2,no
+Gwyneth ,Paltrow,21.0,20,8,3,no
+Halle ,Berry,31.0,20,9,4,no
+Nicole ,Kidman,28.0,10,4,1,no
+Charlize ,Theron,53.0,20,6,3,yes
+Katharine ,Hepburn,62.0,20,5,6,yes
+Katharine ,Hepburn,42.0,12,6,2,no
+Barbra ,Streisand,44.0,30,1,6,yes
+Maggie ,Smith,26.0,34,1,8,yes
+Glenda ,Jackson,35.0,20,5,1,no
+Ernest ,Borgnine,26.0,13,6,1,no
+Alec ,Guinness,77.0,20,5,4,yes
+Charlton ,Heston,75.0,15,3,5,yes
+Gregory ,Peck,43.0,30,3,8,yes
+Sidney ,Poitier,51.0,25,9,0,no
+Alice,Johnson,36.0,,7,,yes
+Bob,Smith,,,5,,no
