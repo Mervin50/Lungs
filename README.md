@@ -20,52 +20,27 @@
 
      3.5 Label Encoder
 
+   #### 4. Exploratory Data Analysis
+
+     4.1 Overview of dataset using statistics
+
+     4.2 Barplot to know distribution of age column
+
+     4.3 Barplot to know Number of Cigarettes smoked by different age groups
+
+     4.4 Pie chart to illustrate the distribution of daily drink consumption
+
+     4.5 Barplot to know smoking and drinking habits
+
+     4.6 Histogram to explore the age distribution of individuals affected by lung cancer
+
+     4.7 Scatter plot to understand relationship between age and smoking habits for the individuals in the dataset
+
+     4.8 Boxplot to visually analyze the distribution
+
+     4.9 Heatmap
 
 
-
-
-
-
-3.4 Distribution of Base salary
-
-3.5 Distribution of 2020 Longetivity pay
-
-3.6 Top 10 Departments based on average base salary
-
-3.7 Top 5 divisions based on 2020 overtime pay distribution
-
-3.8 Distribution of Base Salary based on Gender
-
-3.9 Heatmap of Top 10 Divisions vs Gender
-
-Data Cleaning
-
-4.1 Outlier Detection and Treatment
-
-4.1.1 Z-score Method
-
-4.1.2 Winsorizing Technique
-
-4.1.3 Implementation
-
-4.1.4 Winsorizing explanation of code
-Data Splitting and Preprocessing
-
-Model Selection and Evaluation
-
-6.1 MSE
-
-6.1.1 MSE model performance
-
-6.1.2 MSE model accuracy evaluation
-6.2 R^2 score
-
-6.2.1 R^2 scores of all 3 models
-
-6.2.2 R^2 score evualation
-6.3 Precision, Recall and F1-score
-
-6.3.1 Precision explanation
 
 6.3.2 Recall explanation
 
@@ -90,6 +65,7 @@ References
 This README describes work done on the "Employee Compensation and Satisfaction Insights" Dataset. Resources used include Python and associated packages Google Colab, matplotlib, Seaborn, scikit-learn, statsmodels, and SciPy. We have addressed the regression challenge to uncover the factors impacting salaries, employing Support Vector Machine, Random Forest, and Linear Regression.
 
 # 2. Description of the dataset:
+
 2.1 Head of our Dataset:
 The very first step is always to check if the data needs cleaning by looking for duplicate rows, zero values or NaNs where they shouldn't be etc. The head of our dataset looks like:
 
@@ -103,6 +79,7 @@ The tail of our dataset looks like :
 Visually, we found out that there are few NaN values in our dataset
 
 # 3. Preprocessing and Data Cleaning for EDA
+
 3.1 Detecting Null values in our dataset:
 
 ![Screenshot 2024-05-22 132813](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/667e87e4-f5cc-4458-b100-74d6e5615383)
@@ -140,6 +117,64 @@ We have ratio of 32-29, so its fairly balanced dataset, so no further action is 
 ![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/02431943-2216-41dd-8d5c-fecb38b6e757)
 
 We applied Label Encoder as we are solving classification problem and it helps for our model for better prediction. Label Encoder to transform categorical data into numerical form.
+
+# 4. Exploratory Data Analysis
+
+4.1 Overview of dataset using statistics:
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/d5b38c22-cae2-4f8d-bc3c-689f69cd1e0e)
+
+Approximately 50% people who smoke are below age 40. This group smokes approximately 15 cigarettes and consumes 3 drinks a day.
+
+4.2 Barplot to know distribution of age column
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/5be14dbc-dd4b-417b-b8ff-dcdf5bf1d41f)
+
+Majority of the people in our dataset are from age groups 20 to 39.
+
+4.3 Barplot to know Number of Cigarettes smoked by different age groups
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/f800bbae-ec5b-42fb-9045-b0ef96718cae)
+
+Approximately 19 cigarettes are smoked by people of age group 50 to 59
+
+4.4 Pie chart to illustrate the distribution of daily drink consumption
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/26cc1388-f290-4be4-bce4-04407baf40f5)
+
+Approximately 33% people take 2 to 3 drinks per day
+
+4.5 Barplot to know smoking and drinking habits
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/0062e1db-4d16-46cf-958f-2ea3fef6cab5)
+
+From our barplot, we come to know that majority of people do both smoking and drinking.
+
+4.6 Histogram to explore the age distribution of individuals affected by lung cancer
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/2bc678db-8207-4ee4-aac0-ef8afa29d600)
+
+Majority of people affected by Lung cancer are approximately above age 47.
+
+4.7 Scatter plot to understand relationship between age and smoking habits for the individuals in the dataset
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/b637479c-0ede-4527-98ce-6a261c6aa381)
+
+1) There is an outlier in our dataset where a user smokes approximately 35 cigarettes at the age of 27.
+
+2) Our data appears to be scattered.
+   
+4.8 Boxplot to visually analyze the distribution
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/c5a59816-dca0-41ad-bac2-19a089b0c959)
+
+We plotted a box plot to visually analyze the distribution and spread of the 'Age' and 'Smokes' variables in the dataset. We were not able to see any outliers in our plot
+
+4.9 Heatmap
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/56bb8c13-49e6-44e7-8969-38cb933a3297)
+
+Heatmap shows us correlation between our numeric columns
 
 
 
