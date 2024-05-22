@@ -4,20 +4,21 @@
 
   2. Description of the dataset
 
-    2.1 Head of our Dataset
-    2.2 Tail of our Dataset
+     2.1 Head of our Dataset
+    
+     2.2 Tail of our Dataset
 
   3. Preprocessing and Data Cleaning for EDA
 
-    3.1 Detecting Null values in our dataset
+     3.1 Detecting Null values in our dataset
 
-    3.2 Evaluating the best technique for handling null values
+     3.2 Evaluating the best technique for handling null values
 
-    3.3 After Treating Null values
+     3.3 After Treating Null values
 
-    3.4 Assessing Dataset Balance
+     3.4 Assessing Dataset Balance
 
-    3.5 Label Encoder
+     3.5 Label Encoder
 
 
 
