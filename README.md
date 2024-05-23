@@ -66,7 +66,7 @@
 
 
 # 1. Introduction:
-This README describes work done on the "Employee Compensation and Satisfaction Insights" Dataset. Resources used include Python and associated packages Google Colab, matplotlib, Seaborn, scikit-learn, statsmodels, and SciPy. We have addressed the regression challenge to uncover the factors impacting salaries, employing Support Vector Machine, Random Forest, and Linear Regression.
+We developed a classification model to predict outcomes based on features such as age, smoking habits, and alcohol consumption. This model helps determine the likelihood of a positive result given these personal attributes.
 
 # 2. Description of the dataset:
 
