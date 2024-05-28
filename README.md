@@ -9,7 +9,7 @@ Our dataset has 61 rows and 7 columns.
 ![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/863ec6f8-7f0e-444d-9478-20de60638592)
 
 #### 2.2 Datatypes of each column in our dataset:
-The tail of our dataset looks like : 
+The datatypes of our dataset are : 
 
 ![test2](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/4af6acc7-a825-4f89-a45d-92c729aced08)
 
