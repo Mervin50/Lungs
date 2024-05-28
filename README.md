@@ -158,53 +158,7 @@ Our confusion matrix is working well
 1. Lung cancer is caused among people who are above approximately 39 years old.
 2. All the 4 models : Logisitc Regression, Decision Tree, Random Forest and Support Vector Machine used provided high accuracy.
 
-# 9. References : 
 
-General:
-
-[1] Anaconda Distribution https://www.anaconda.com/
-
-[2] Python Software Foundation https://www.python.org/
-
-[3] seaborn: statistical data visualization https://seaborn.pydata.org/index.html#
-
-[4] matplotlib: Python plotting library https://matplotlib.org/
-
-[5] "Employee Compensation and Satisfaction Insights" Dataset from data.world https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
-
-[6] scikit-learn: Machine Learning in Python https://scikit-learn.org/stable/index.html
-
-[7] statsmodels: Statistics in Python https://www.statsmodels.org/stable/index.html
-
-[8] scipy.stats : Statistics with SciPy https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html
-
-Exploratory data analysis:
-
-[9] Exploratory Statistical Data Analysis with a Real data set using Pandas https://towardsdatascience.com/exploratory-statistical-data-analysis-with-a-real-data set-using-pandas-208007798b92
-
-[10] How to investigate a data set with Python https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e
-
-[11] Data analysis with Python https://medium.com/@onpillow/01-investigate-tmdb-movie-data set-python-data-analysis-project-part-1-data-wrangling-3d2b55ea7714
-
-[12] Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython. Wes McKinney. ISBN-13: 978-1491957660 ISBN-10: 1491957662
-
-[13] Pandas In 10 Minutes || Wes McKinney https://www.youtube.com/watch?v=1MGCD8SQp3k
-
-[14] Good description of quartiles on Seaborn plots https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
-
-Regression:
-
-[15] Ordinary Least Squares in statsmodels https://www.statsmodels.org/dev/examples/notebooks/generated/ols.html
-
-[16] Generalized Linear Models in scikit-learn https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares
-
-[17] How to run Linear regression in Python scikit-Learn https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/
-
-[18] A beginner’s guide to Linear Regression in Python with Scikit-Learn https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f
-
-[19] Regression Analysis: How Do I Interpret R-squared and Assess the Goodness-of-Fit? https://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit
-
-[20] Python and R Tips To Learn Data Science: Pearson and Spearman Correlation in Python https://cmdlinetips.com/2019/08/how-to-compute-pearson-and-spearman-correlation-in-python/
 
 
 
