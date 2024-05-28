@@ -3,15 +3,16 @@ We developed a classification model to predict outcomes based on features such a
 
 # 2. Description of the dataset:
 
-#### 2.1 Head of our Dataset:
-The very first step is always to check if the data needs cleaning by looking for duplicate rows, zero values or NaNs where they shouldn't be etc. The head of our dataset looks like:
+#### 2.1 Shape of our dataset:
+Our dataset has 61 rows and 7 columns.
 
-![Screenshot 2024-05-22 131152](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/f2726f91-9bda-4453-a483-3ac0367b11bb)
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/863ec6f8-7f0e-444d-9478-20de60638592)
 
-#### 2.2 Tail of our Dataset:
+#### 2.2 Datatypes of each column in our dataset:
 The tail of our dataset looks like : 
 
-![Screenshot 2024-05-22 132115](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/0270b766-bcb5-4109-9e14-48c67f9b4811)
+![test2](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/4af6acc7-a825-4f89-a45d-92c729aced08)
+
 
 Visually, we found out that there are few NaN values in our dataset
 
