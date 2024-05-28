@@ -84,9 +84,11 @@ Fig d : From our barplot, we come to know that majority of people do both smokin
 
 Fig e : Majority of people affected by Lung cancer are approximately above age 47.
 
-Fig f : There is an outlier in our dataset where a user smokes approximately 35 cigarettes at the age of 27. Our data appears to be scattered.
+Fig f : There is an outlier in our dataset where a user smokes approximately 35 cigarettes at the age of 27. 
 
-Fig g : We plotted a box plot to visually analyze the distribution and spread of the 'Age' and 'Smokes' variables in the dataset. We were not able to see any outliers in our plot
+Fig g : Our data appears to be scattered.
+
+Fig h : We plotted a box plot to visually analyze the distribution and spread of the 'Age' and 'Smokes' variables in the dataset. We were not able to see any outliers in our plot
 
 
 # 5. Polishing our data for model training
