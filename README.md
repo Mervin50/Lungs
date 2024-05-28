@@ -58,6 +58,14 @@ We applied Label Encoder as we are solving classification problem and it helps f
 
 # 4. Exploratory Data Analysis
 
+#### 4.1 Overview of dataset using statistics:
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/d5b38c22-cae2-4f8d-bc3c-689f69cd1e0e)
+
+Approximately 50% people who smoke are below age 40. This group smokes approximately 15 cigarettes and consumes 3 drinks a day.
+
+#### 4.2 Comprehensive Analysis of Age, Smoking, and Drinking Habits in Relation to Lung Cancer
+
 ![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/fac4d932-0f9e-4e67-92ce-a12f6a772892)
 
 ![test2](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/8386c7e2-061d-4726-8895-e3ba806526cb)
@@ -66,77 +74,20 @@ We applied Label Encoder as we are solving classification problem and it helps f
 
 ![test4](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/3d5ac5ba-a32c-4a7a-be50-b460175fea68)
 
-Fig A : Approximately 50% people who smoke are below age 40. This group smokes approximately 15 cigarettes and consumes 3 drinks a day.
+Fig a : Majority of the people in our dataset are from age groups 20 to 39.
 
-Fig B : Majority of the people in our dataset are from age groups 20 to 39.
+Fig b : Approximately 19 cigarettes are smoked by people of age group 50 to 59.
 
-Fig C : Approximately 19 cigarettes are smoked by people of age group 50 to 59.
+Fig c : Approximately 33% people take 2 to 3 drinks per day
 
-Fig D : Approximately 33% people take 2 to 3 drinks per day
+Fig d : From our barplot, we come to know that majority of people do both smoking and drinking.
 
-Fig E : From our barplot, we come to know that majority of people do both smoking and drinking.
+Fig e : Majority of people affected by Lung cancer are approximately above age 47.
 
-Fig F : Majority of people affected by Lung cancer are approximately above age 47.
+Fig f : There is an outlier in our dataset where a user smokes approximately 35 cigarettes at the age of 27. Our data appears to be scattered.
 
-Fig G : There is an outlier in our dataset where a user smokes approximately 35 cigarettes at the age of 27. Our data appears to be scattered.
+Fig g : We plotted a box plot to visually analyze the distribution and spread of the 'Age' and 'Smokes' variables in the dataset. We were not able to see any outliers in our plot
 
-Fig H : We plotted a box plot to visually analyze the distribution and spread of the 'Age' and 'Smokes' variables in the dataset. We were not able to see any outliers in our plot
-
-#### 4.1 Overview of dataset using statistics:
-
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/d5b38c22-cae2-4f8d-bc3c-689f69cd1e0e)
-
-Approximately 50% people who smoke are below age 40. This group smokes approximately 15 cigarettes and consumes 3 drinks a day.
-
-#### 4.2 Barplot to know distribution of age column
-
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/5be14dbc-dd4b-417b-b8ff-dcdf5bf1d41f)
-
-Majority of the people in our dataset are from age groups 20 to 39.
-
-#### 4.3 Barplot to know Number of Cigarettes smoked by different age groups
-
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/f800bbae-ec5b-42fb-9045-b0ef96718cae)
-
-Approximately 19 cigarettes are smoked by people of age group 50 to 59
-
-#### 4.4 Pie chart to illustrate the distribution of daily drink consumption
-
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/26cc1388-f290-4be4-bce4-04407baf40f5)
-
-Approximately 33% people take 2 to 3 drinks per day
-
-#### 4.5 Barplot to know smoking and drinking habits
-
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/0062e1db-4d16-46cf-958f-2ea3fef6cab5)
-
-From our barplot, we come to know that majority of people do both smoking and drinking.
-
-#### 4.6 Histogram to explore the age distribution of individuals affected by lung cancer
-
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/2bc678db-8207-4ee4-aac0-ef8afa29d600)
-
-Majority of people affected by Lung cancer are approximately above age 47.
-
-#### 4.7 Scatter plot to understand relationship between age and smoking habits for the individuals in the dataset
-
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/b637479c-0ede-4527-98ce-6a261c6aa381)
-
-1) There is an outlier in our dataset where a user smokes approximately 35 cigarettes at the age of 27.
-
-2) Our data appears to be scattered.
-   
-#### 4.8 Boxplot to visually analyze the distribution
-
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/c5a59816-dca0-41ad-bac2-19a089b0c959)
-
-We plotted a box plot to visually analyze the distribution and spread of the 'Age' and 'Smokes' variables in the dataset. We were not able to see any outliers in our plot
-
-#### 4.9 Heatmap
-
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/56bb8c13-49e6-44e7-8969-38cb933a3297)
-
-Heatmap shows us correlation between our numeric columns
 
 # 5. Polishing our data for model training
 
