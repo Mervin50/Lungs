@@ -1,5 +1,5 @@
 
-![lung-cancer image](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/6aa73e10-dc40-4fcf-a54d-c01506521d4e)
+![lung-cancer image](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/00e62f62-03bb-41b0-ae62-15dd130dfe8f)
 
 # 1. Introduction:
 We developed a classification model to predict outcomes based on features such as age, smoking habits, and alcohol consumption. This model helps determine the likelihood of a positive result given these personal attributes.
